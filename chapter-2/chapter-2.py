@@ -1,8 +1,12 @@
+print("------------------")
+
 message = "Hello Python world!"
 print(message)
 
-message = "Hello me!"
+message = "Hello to myself!"
 print(message)
+
+print("------------------")
 
 name = "ada lovelace"
 
@@ -16,6 +20,10 @@ full_name = first_name + " " + last_name
 print(full_name)
 print("Hello, " + full_name.title() + "!")
 
+print("------------------")
+
 age = 23
 message = "Happy " + str(age) + "rd Birthday!"
 print(message)
+
+print("------------------")
